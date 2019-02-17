@@ -1,0 +1,2 @@
+E:\Лёха\github\PadawansTask4\obj\Debug\PadawansTask4.csprojAssemblyReference.cache
+E:\Лёха\github\PadawansTask4\obj\Debug\PadawansTask4.csproj.CoreCompileInputs.cache
